@@ -4,6 +4,7 @@
 <p align="center">
   <img src="Cover.png" >
 </p>
+
 ## Project Description
 The project has been developed in order to test a method to perform sim2real for a differential drive robot.
 The Paper that has been used as reference is [Deep Reinforcement Learning With Action Masking for Differential-Drive Robot Navigation Using Low-Cost Sensors] (pdf in the repo).
