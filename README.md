@@ -28,7 +28,8 @@ The project is composed by 3 main parts: look at the following image
 </p>
 The folder client_server contains
 - complete_server.py (the file that runs the policy network)
-- with_angle.py (the file that shows the angle and the distance between robot and target) using pupil_apriltags
+- with_angle.py (the file that shows the angle and the distance between robot and target) using pupil_apriltags; 
+in bot file you should customize the width and height of observation space in cm
 
 The folder develop_3 contains
 - raspberry.py (the file that runs the client on the raspberry) -> responsible of the communication with the server and with arduino and reading the sensors
