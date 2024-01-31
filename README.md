@@ -1,4 +1,5 @@
-# RL_2024_Sapienza
+# Reinforcement Learning for Differential Drive Robot - Exam Project
+Project developed by Emanuele Rucci and @ludocomito for the exam of Reinforcement Learning.
 
 <!-- Image Cover.png-->
 <p align="center">
@@ -20,6 +21,11 @@ Regarding the results, it is possible to look at the videos at the following lin
 
 
 ## Run the project
+The project is composed by 3 main parts: look at the following image
+
+<p align="center">
+  <img src="Stack.png" >
+</p>
 The folder client_server contains
 - complete_server.py (the file that runs the policy network)
 - with_angle.py (the file that shows the angle and the distance between robot and target) using pupil_apriltags
