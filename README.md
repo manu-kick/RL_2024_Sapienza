@@ -1,5 +1,5 @@
 # Reinforcement Learning for Differential Drive Robot - Exam Project
-Project developed by Emanuele Rucci and @ludocomito for the exam of Reinforcement Learning.
+Project developed by me and @ludocomito for the exam of Reinforcement Learning.
 
 <!-- Image Cover.png-->
 <p align="center">
