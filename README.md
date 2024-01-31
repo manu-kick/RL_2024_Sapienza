@@ -2,7 +2,7 @@
 
 <!-- Image Cover.png-->
 <p align="center">
-  <img src="Cover.png" width="350">
+  <img src="Cover.png" >
 </p>
 ## Project Description
 The project has been developed in order to test a method to perform sim2real for a differential drive robot.
@@ -18,3 +18,13 @@ Regarding the results, it is possible to look at the videos at the following lin
 - [Failures] https://www.youtube.com/watch?v=ATno2D7XG1U&ab_channel=EmanueleRucci
 
 
+## Run the project
+The folder client_server contains
+- complete_server.py (the file that runs the policy network)
+- with_angle.py (the file that shows the angle and the distance between robot and target) using pupil_apriltags
+
+The folder develop_3 contains
+- raspberry.py (the file that runs the client on the raspberry) -> responsible of the communication with the server and with arduino and reading the sensors
+- Arduino folder (the folder that contains the code for the arduino) -> the .h and .ino files
+
+The repo contains also a fritzing file that shows the connections between the raspberry and the arduino.
